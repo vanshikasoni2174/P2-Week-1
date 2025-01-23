@@ -1,4 +1,3 @@
-Sustainable Supply Chain Data Preparation in Power BI
 This project demonstrates the use of Power Query (Query Editor) in Power BI to prepare and customize supply chain data for analysis. The focus is on creating tailored tables for Inventory, Manufacturing, Supplier, and Supply Chain datasets. By using Power Query for transformations, the raw sustainable supply chain dataset is cleaned, structured, and enriched for further analysis.
 
 Project Overview
